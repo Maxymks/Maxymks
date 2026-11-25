@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi there 👋, I`m Oleksanr Shvab
 
-<!--
-**Maxymks/Maxymks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About me:
+  - 🌱 Studying: Angular, Electron.
+  - 💬 Ask me about: About anything, I'll try to answer
 
-Here are some ideas to get you started:
+## 🛠️ Stack:
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![GIT](https://skillicons.dev/icons?i=git)
+![GIT](https://skillicons.dev/icons?i=github)
+![GIT](https://skillicons.dev/icons?i=vscode)
+![GIT](https://skillicons.dev/icons?i=visualstudio)
+![GIT](https://skillicons.dev/icons?i=powershell)
+![GIT](https://skillicons.dev/icons?i=php)
+![GIT](https://skillicons.dev/icons?i=cs)
+![GIT](https://skillicons.dev/icons?i=npm)
+![GIT](https://skillicons.dev/icons?i=mysql)
+![GIT](https://skillicons.dev/icons?i=bootstrap)
+![GIT](https://skillicons.dev/icons?i=windows)
+![GIT](https://skillicons.dev/icons?i=nodejs)
+![GIT](https://skillicons.dev/icons?i=docker)
+![GIT](https://skillicons.dev/icons?i=angular)
+![GIT](https://skillicons.dev/icons?i=typescript)
+![GIT](https://skillicons.dev/icons?i=phpstorm)
+![GIT](https://skillicons.dev/icons?i=webstorm)
+![GIT](https://skillicons.dev/icons?i=figma)
+![GIT](https://skillicons.dev/icons?i=jquery)
+![GIT](https://skillicons.dev/icons?i=markdown)
+![GIT](https://skillicons.dev/icons?i=vite)
+![GIT](https://skillicons.dev/icons?i=electron)
+![GIT](https://skillicons.dev/icons?i=svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistics:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrTEB&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrTEB&layout=compact&theme=tokyonight)
