@@ -32,5 +32,5 @@
 ![GIT](https://skillicons.dev/icons?i=svg)
 
 ## 📊 Statistics:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrTEB&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrTEB&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxymks&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxymks&layout=compact&theme=tokyonight)
