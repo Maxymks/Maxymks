@@ -1,8 +1,7 @@
-## Hi there 👋, I`m Oleksanr Shvab
+## Hi there 👋, I`m Maxymks
 
 ## 🧑‍💻 About me:
   - 🌱 Studying: Angular, Electron.
-  - 💬 Ask me about: About anything, I'll try to answer
 
 ## 🛠️ Stack:
 ![HTML](https://skillicons.dev/icons?i=html)
